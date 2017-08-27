@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(224, 224, 224);
+  margin: 0;
+  padding: 0;
+}
+
+header {
+background-color: rgb(46, 46, 46);
+height: 20vh;
+width: 100%;
+margin-bottom: 1px;
+margin: 0;
+}
+.middle {
+  background-color: white;
+  position: relative;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+  margin: auto;
+  height: 65vh;
+  width: 75%;
+}
+
+footer {
+  background-color: rgb(46, 46, 46);
+  height: 15vh;
+  width: 75%;
+  margin: 0;
+  position: relative;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+  margin: auto;
+
+}
