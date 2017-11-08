@@ -1,0 +1,22 @@
+body{
+background-color: rgb(221,221,221);
+padding:0;
+margin: 2px;
+}
+.header{
+background-color: rgb(68,68,68);
+height: 20vh;
+width: 100%;
+}
+.mid{
+background-color: rgb(239,239,239);
+height:75vh;
+width:75vw;
+margin:auto;
+}
+.footer{
+background-color: rgb(34,34,34);
+height: 5vh;
+width: 75vw;
+margin: auto;
+}
